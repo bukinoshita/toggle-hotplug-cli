@@ -1,6 +1,6 @@
 {
   "name": "toggle-hotplug-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Toggle macOS Sierra hotplug on and off",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/toggle-hotplug-cli.git",

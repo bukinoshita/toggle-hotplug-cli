@@ -1,6 +1,6 @@
 {
   "name": "toggle-hotplug-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Toggle macOS Sierra hotplug on and off",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/toggle-hotplug-cli.git",
@@ -19,7 +19,9 @@
   "bin": {
     "hotplug": "index.js"
   },
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "xo"
   },
@@ -34,6 +36,8 @@
     "xo": "^0.18.2"
   },
   "xo": {
-    "extends": ["prettier"]
+    "extends": [
+      "prettier"
+    ]
   }
 }

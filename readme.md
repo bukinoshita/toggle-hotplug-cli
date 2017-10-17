@@ -2,6 +2,8 @@
 
 > Toggle macOS Sierra hotplug on and off
 
+_**Hotplug:** when you [plug your iPhone on your macbook and the Photos app automatically opens](https://twitter.com/bukinoshita/status/920089417494220801). `toggle-hotplug-cli` can toggle this on and off._
+
 
 ## Install
 

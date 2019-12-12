@@ -29,7 +29,7 @@
     "meow": "^5.0.0",
     "shout-message": "^0.0.2",
     "toggle-hotplug": "^0.0.1",
-    "update-notifier": "^3.0.0"
+    "update-notifier": "^4.0.0"
   },
   "devDependencies": {
     "eslint-config-prettier": "6.7.0",

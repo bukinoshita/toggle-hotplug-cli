@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "meow": "^5.0.0",
-    "shout-message": "^0.0.2",
+    "shout-message": "^0.0.3",
     "toggle-hotplug": "^0.0.1",
     "update-notifier": "^4.0.0"
   },

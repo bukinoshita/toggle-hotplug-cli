@@ -26,7 +26,7 @@
     "test": "xo"
   },
   "dependencies": {
-    "meow": "^6.0.0",
+    "meow": "^8.0.0",
     "shout-message": "^0.0.3",
     "toggle-hotplug": "^0.0.1",
     "update-notifier": "^4.0.0"
